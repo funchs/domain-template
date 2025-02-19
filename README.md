@@ -1,0 +1,2 @@
+# domain-template
+domain-template
