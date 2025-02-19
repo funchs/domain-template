@@ -1,0 +1,9 @@
+payload:
+  - DOMAIN,iflytek.com
+  - DOMAIN-SUFFIX,iflytek.com
+  - DOMAIN-KEYWORD,iflytek.com
+  - DOMAIN,iflytek.cn
+  - DOMAIN-SUFFIX,iflytek.cn
+  - DOMAIN-KEYWORD,iflytek.cn
+  - IP-CIDR,172.31.0.0/12,
+  - IP-CIDR,172.30.0.0/12
